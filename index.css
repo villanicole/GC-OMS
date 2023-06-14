@@ -26,6 +26,7 @@
 
 
 
+
 .colorchange{
      font-family: 'Pacifico', cursive;
      animation:  cc 2s infinite;
@@ -212,3 +213,5 @@ button:hover{
   background-color: rgba(255,0,0,0.7);
   color: white;
 }
+
+

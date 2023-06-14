@@ -9,7 +9,7 @@ jQuery(document).ready(function(){
 	
 
 	
-});
+});s
 
 function edina_tm_animate_text(){
 	
