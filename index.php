@@ -16,10 +16,9 @@
   <link rel="stylesheet" href="assets/css/style.css">
 
 
- <nav class="row py-4">
-  <div class="col-lg-9 col-md-9 col-12  logo">
-   <h1><span class="colorchange">Internship Management System</span></h1><br>
-   <span class="edina_tm_animation_text_word"></span>
+  <!-- <link rel="stylesheet" href="fonts/Oswald/Oswald.ttf">
+ <link rel="stylesheet" href="fonts/Pacifico/Pacifico-Regular.ttf">
+ <link rel="stylesheet" href="fonts/Oswald/Oswald.ttf"> -->
 
   <!-- <script src="js/jquery.js"></script>
   <script src="js/plugins.js"></script>
