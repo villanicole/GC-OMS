@@ -113,6 +113,9 @@ body {
   border-radius: 50%;
 }
 
+.company-card {
+  width: 500px;
+}
 .signoutbtn{
   background-color: gray ;
   width: 50px;
@@ -128,10 +131,8 @@ body {
 .time{
   color: white;
 }
-.card-body{
-  background-color: rgb(199, 119, 0);
-  color: orange;
-}
+
+
 .cards{
   background-color: orange;
 }
